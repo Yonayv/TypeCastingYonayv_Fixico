@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TypeCastingYonayv_Fixico/1.0.0": {
+        "runtime": {
+          "TypeCastingYonayv_Fixico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TypeCastingYonayv_Fixico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

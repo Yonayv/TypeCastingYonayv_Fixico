@@ -1,0 +1,16 @@
+C:\Users\Emily.fixico\source\repos\TypeCastingYonayv_Fixico\TypeCastingYonayv_Fixico\bin\Debug\net5.0\TypeCastingYonayv_Fixico.exe
+C:\Users\Emily.fixico\source\repos\TypeCastingYonayv_Fixico\TypeCastingYonayv_Fixico\bin\Debug\net5.0\TypeCastingYonayv_Fixico.deps.json
+C:\Users\Emily.fixico\source\repos\TypeCastingYonayv_Fixico\TypeCastingYonayv_Fixico\bin\Debug\net5.0\TypeCastingYonayv_Fixico.runtimeconfig.json
+C:\Users\Emily.fixico\source\repos\TypeCastingYonayv_Fixico\TypeCastingYonayv_Fixico\bin\Debug\net5.0\TypeCastingYonayv_Fixico.runtimeconfig.dev.json
+C:\Users\Emily.fixico\source\repos\TypeCastingYonayv_Fixico\TypeCastingYonayv_Fixico\bin\Debug\net5.0\TypeCastingYonayv_Fixico.dll
+C:\Users\Emily.fixico\source\repos\TypeCastingYonayv_Fixico\TypeCastingYonayv_Fixico\bin\Debug\net5.0\ref\TypeCastingYonayv_Fixico.dll
+C:\Users\Emily.fixico\source\repos\TypeCastingYonayv_Fixico\TypeCastingYonayv_Fixico\bin\Debug\net5.0\TypeCastingYonayv_Fixico.pdb
+C:\Users\Emily.fixico\source\repos\TypeCastingYonayv_Fixico\TypeCastingYonayv_Fixico\obj\Debug\net5.0\TypeCastingYonayv_Fixico.csproj.AssemblyReference.cache
+C:\Users\Emily.fixico\source\repos\TypeCastingYonayv_Fixico\TypeCastingYonayv_Fixico\obj\Debug\net5.0\TypeCastingYonayv_Fixico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emily.fixico\source\repos\TypeCastingYonayv_Fixico\TypeCastingYonayv_Fixico\obj\Debug\net5.0\TypeCastingYonayv_Fixico.AssemblyInfoInputs.cache
+C:\Users\Emily.fixico\source\repos\TypeCastingYonayv_Fixico\TypeCastingYonayv_Fixico\obj\Debug\net5.0\TypeCastingYonayv_Fixico.AssemblyInfo.cs
+C:\Users\Emily.fixico\source\repos\TypeCastingYonayv_Fixico\TypeCastingYonayv_Fixico\obj\Debug\net5.0\TypeCastingYonayv_Fixico.csproj.CoreCompileInputs.cache
+C:\Users\Emily.fixico\source\repos\TypeCastingYonayv_Fixico\TypeCastingYonayv_Fixico\obj\Debug\net5.0\TypeCastingYonayv_Fixico.dll
+C:\Users\Emily.fixico\source\repos\TypeCastingYonayv_Fixico\TypeCastingYonayv_Fixico\obj\Debug\net5.0\ref\TypeCastingYonayv_Fixico.dll
+C:\Users\Emily.fixico\source\repos\TypeCastingYonayv_Fixico\TypeCastingYonayv_Fixico\obj\Debug\net5.0\TypeCastingYonayv_Fixico.pdb
+C:\Users\Emily.fixico\source\repos\TypeCastingYonayv_Fixico\TypeCastingYonayv_Fixico\obj\Debug\net5.0\TypeCastingYonayv_Fixico.genruntimeconfig.cache
